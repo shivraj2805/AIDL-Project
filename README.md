@@ -181,10 +181,10 @@ pip install -r requirements.txt
 jupyter notebook "Notebook2_satellite_image_segmentation_tensorflow_Focal_loss.ipynb"
 ```
 
-### Dataset
+### IMP
 ```python
-# For best performance, use:
-   Use Drive Link for dataset - "https://drive.google.com/drive/folders/11R8Oj6NT5IlCmrZkjj7NBytGiIkgo0Mh?usp=sharing"
+# For All Images, use:
+   Use Drive Link for dataset - 
 ```
 
 ## 🔧 **Technical Specifications**
